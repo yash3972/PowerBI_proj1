@@ -1,5 +1,5 @@
 # **Power BI Sales Analysis Dashboard**
-
+![Dashboard Preview](Dashboard.png)
 ## **Project Overview**
 
 This project leverages **Power BI, SQL, and Excel** to analyze sales data and generate interactive dashboards. The goal is to extract key business insights, monitor performance using KPIs, and visualize trends for effective decision-making.
